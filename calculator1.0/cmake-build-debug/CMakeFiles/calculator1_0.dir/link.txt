@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/calculator1_0.dir/button.cpp.o CMakeFiles/calculator1_0.dir/calculator.cpp.o CMakeFiles/calculator1_0.dir/main.cpp.o  -o calculator1_0 
