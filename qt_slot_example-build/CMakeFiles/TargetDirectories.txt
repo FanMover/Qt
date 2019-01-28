@@ -1,0 +1,4 @@
+/home/top/project/Qt/qt_slot_example-build/CMakeFiles/edit_cache.dir
+/home/top/project/Qt/qt_slot_example-build/CMakeFiles/rebuild_cache.dir
+/home/top/project/Qt/qt_slot_example-build/CMakeFiles/helloQt.dir
+/home/top/project/Qt/qt_slot_example-build/CMakeFiles/helloQt_automoc.dir

@@ -43,10 +43,10 @@ RM = /home/top/opt/clion-2018.2.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/top/project/Qt/widget
+CMAKE_SOURCE_DIR = /home/top/project/Qt/widget_in_clion
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/top/project/Qt/widget/cmake-build-debug
+CMAKE_BINARY_DIR = /home/top/project/Qt/widget_in_clion/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/QT.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/QT.dir/flags.make
 
 CMakeFiles/QT.dir/main.cpp.o: CMakeFiles/QT.dir/flags.make
 CMakeFiles/QT.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QT.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/QT.dir/main.cpp.o -c /home/top/project/Qt/widget/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QT.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/QT.dir/main.cpp.o -c /home/top/project/Qt/widget_in_clion/main.cpp
 
 CMakeFiles/QT.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QT.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/top/project/Qt/widget/main.cpp > CMakeFiles/QT.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/top/project/Qt/widget_in_clion/main.cpp > CMakeFiles/QT.dir/main.cpp.i
 
 CMakeFiles/QT.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QT.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/top/project/Qt/widget/main.cpp -o CMakeFiles/QT.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/top/project/Qt/widget_in_clion/main.cpp -o CMakeFiles/QT.dir/main.cpp.s
 
 CMakeFiles/QT.dir/widget.cpp.o: CMakeFiles/QT.dir/flags.make
 CMakeFiles/QT.dir/widget.cpp.o: ../widget.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QT.dir/widget.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/QT.dir/widget.cpp.o -c /home/top/project/Qt/widget/widget.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QT.dir/widget.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/QT.dir/widget.cpp.o -c /home/top/project/Qt/widget_in_clion/widget.cpp
 
 CMakeFiles/QT.dir/widget.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QT.dir/widget.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/top/project/Qt/widget/widget.cpp > CMakeFiles/QT.dir/widget.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/top/project/Qt/widget_in_clion/widget.cpp > CMakeFiles/QT.dir/widget.cpp.i
 
 CMakeFiles/QT.dir/widget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QT.dir/widget.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/top/project/Qt/widget/widget.cpp -o CMakeFiles/QT.dir/widget.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/top/project/Qt/widget_in_clion/widget.cpp -o CMakeFiles/QT.dir/widget.cpp.s
 
 CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o: CMakeFiles/QT.dir/flags.make
 CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o: QT_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o -c /home/top/project/Qt/widget/cmake-build-debug/QT_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o -c /home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/mocs_compilation.cpp
 
 CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/top/project/Qt/widget/cmake-build-debug/QT_autogen/mocs_compilation.cpp > CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/mocs_compilation.cpp > CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/top/project/Qt/widget/cmake-build-debug/QT_autogen/mocs_compilation.cpp -o CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/mocs_compilation.cpp -o CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.s
 
 # Object files for target QT
 QT_OBJECTS = \
@@ -118,17 +118,20 @@ QT_EXTERNAL_OBJECTS =
 ../bin/QT: /usr/local/lib/libopencv_bgsegm.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_bioinspired.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_ccalib.so.3.2.0
+../bin/QT: /usr/local/lib/libopencv_datasets.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_dpm.so.3.2.0
+../bin/QT: /usr/local/lib/libopencv_face.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_freetype.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_fuzzy.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_line_descriptor.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_optflow.so.3.2.0
+../bin/QT: /usr/local/lib/libopencv_plot.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_reg.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_saliency.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_stereo.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_structured_light.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_surface_matching.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_tracking.so.3.2.0
+../bin/QT: /usr/local/lib/libopencv_text.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_xfeatures2d.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_ximgproc.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_xobjdetect.so.3.2.0
@@ -136,15 +139,10 @@ QT_EXTERNAL_OBJECTS =
 ../bin/QT: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.5.1
 ../bin/QT: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1
 ../bin/QT: /usr/local/lib/libopencv_shape.so.3.2.0
+../bin/QT: /usr/local/lib/libopencv_video.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_phase_unwrapping.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_rgbd.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_calib3d.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_video.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_datasets.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_dnn.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_face.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_plot.so.3.2.0
-../bin/QT: /usr/local/lib/libopencv_text.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_features2d.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_flann.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_objdetect.so.3.2.0
@@ -156,7 +154,7 @@ QT_EXTERNAL_OBJECTS =
 ../bin/QT: /usr/local/lib/libopencv_imgproc.so.3.2.0
 ../bin/QT: /usr/local/lib/libopencv_core.so.3.2.0
 ../bin/QT: CMakeFiles/QT.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/QT"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ../bin/QT"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QT.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,6 +167,6 @@ CMakeFiles/QT.dir/clean:
 .PHONY : CMakeFiles/QT.dir/clean
 
 CMakeFiles/QT.dir/depend:
-	cd /home/top/project/Qt/widget/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/top/project/Qt/widget /home/top/project/Qt/widget /home/top/project/Qt/widget/cmake-build-debug /home/top/project/Qt/widget/cmake-build-debug /home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/top/project/Qt/widget_in_clion/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/top/project/Qt/widget_in_clion /home/top/project/Qt/widget_in_clion /home/top/project/Qt/widget_in_clion/cmake-build-debug /home/top/project/Qt/widget_in_clion/cmake-build-debug /home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/QT.dir/depend
 

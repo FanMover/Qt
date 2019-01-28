@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/helloQt.dir/form.cpp.o CMakeFiles/helloQt.dir/main.cpp.o CMakeFiles/helloQt.dir/panel.cpp.o CMakeFiles/helloQt.dir/helloQt_autogen/mocs_compilation.cpp.o  -o helloQt /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.5.1 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.5.1 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1 

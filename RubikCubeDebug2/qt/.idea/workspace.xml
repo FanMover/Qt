@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="RubikCubeDebug" targetName="RubikCubeDebug_autogen" />
+      <config projectName="RubikCubeDebug" targetName="RubikCubeDebug" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f04b0719-6070-447e-ad7f-5a99eb508d17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/ColorAdjust.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/widget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/widget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ColorAdjust/widget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qt.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/.idea/RubiksCubeDebug2-0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/RubiksCubeDebug2-0.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/widget.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/widget.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RubiksCubeDebug2-0/widget.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qt_slot_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../widget_in_clion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../QtImageViewer" beforeDir="false" afterPath="$PROJECT_DIR$/../../QtImageViewer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/bin/QT" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/bin/QT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/widget.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/widget.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/AutogenInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/AutogenInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/AutogenOldSettings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/AutogenOldSettings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/CMakeFiles/widget.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/QT.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/QT.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/widget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/widget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/widget.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../widget_in_clion/widget.pro.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../widget_in_clion/widget.ui.autosave" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="369937161">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="RubikCubeDebug (disassembly)" value="4" />
+          <entry key="cpp" value="9" />
+          <entry key="h" value="13" />
+          <entry key="hpp" value="8" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Disassembly" value="4" />
+          <entry key="ObjectiveC" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1339" />
+          <entry key="h" value="709" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="2048" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/widget.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1608">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/widget.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+              <folding>
+                <element signature="e#35#53#0" expanded="true" />
+                <element signature="e#4410#7378#0" />
+                <element signature="e#7383#8425#0" />
+                <element signature="e#8430#8742#0" />
+                <element signature="e#8747#9869#0" />
+                <element signature="e#9900#10149#0" />
+                <element signature="e#10154#10314#0" />
+                <element signature="e#10319#10576#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scene</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/widget.h" />
+        <option value="$PROJECT_DIR$/widget.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="y" value="2" />
+    <option name="width" value="1011" />
+    <option name="height" value="1076" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RubikCubeDebug" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RubikCubeDebug">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RubikCubeDebug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RubikCubeDebug" TARGET_NAME="RubikCubeDebug" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RubikCubeDebug" RUN_TARGET_NAME="RubikCubeDebug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RubikCubeDebug_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RubikCubeDebug" TARGET_NAME="RubikCubeDebug_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.RubikCubeDebug" />
+      <item itemvalue="Application.RubikCubeDebug_autogen" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f04b0719-6070-447e-ad7f-5a99eb508d17" name="Default Changelist" comment="" />
+      <created>1548122540194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548122540194</updated>
+      <workItem from="1548122544483" duration="7309000" />
+      <workItem from="1548135612201" duration="444000" />
+      <workItem from="1548390674427" duration="526000" />
+      <workItem from="1548391229499" duration="283000" />
+      <workItem from="1548394767394" duration="4146000" />
+      <workItem from="1548585861228" duration="684000" />
+      <workItem from="1548636889045" duration="8570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21962000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="61" y="-4" width="1859" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32795697" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32997763" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/widget.h</url>
+          <line>149</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtWidgets/qwidget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="127" column="23" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/imgcodecs.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtWidgets/qpushbutton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="54" column="52" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtWidgets/qabstractbutton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtGui/qimage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtCore/qobjectdefs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1265">
+          <caret line="100" column="13" lean-forward="true" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/RubikCubeDebug_autogen/EWIEGA46WW/moc_widget.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="226" column="13" selection-start-line="226" selection-start-column="13" selection-end-line="226" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/mat.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1674" column="44" selection-start-line="1674" selection-start-column="44" selection-end-line="1674" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtCore/qstring.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="385" column="21" selection-start-line="385" selection-start-column="21" selection-end-line="385" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/Qt5.11.2/5.11.2/gcc_64/include/QtCore/qcompilerdetection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="235" column="10" selection-start-line="235" selection-start-column="10" selection-end-line="235" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="729" selection-start-line="729" selection-end-line="729" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+            <element signature="e#4410#7378#0" />
+            <element signature="e#7383#8425#0" />
+            <element signature="e#8430#8742#0" />
+            <element signature="e#8747#9869#0" />
+            <element signature="e#9900#10149#0" />
+            <element signature="e#10154#10314#0" />
+            <element signature="e#10319#10576#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widget.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1608">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

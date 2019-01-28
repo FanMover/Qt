@@ -1,0 +1,4 @@
+/home/top/project/Qt/ColorAdjust-build/CMakeFiles/edit_cache.dir
+/home/top/project/Qt/ColorAdjust-build/CMakeFiles/rebuild_cache.dir
+/home/top/project/Qt/ColorAdjust-build/CMakeFiles/Adjust.dir
+/home/top/project/Qt/ColorAdjust-build/CMakeFiles/Adjust_automoc.dir

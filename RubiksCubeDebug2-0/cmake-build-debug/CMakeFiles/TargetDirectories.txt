@@ -1,0 +1,4 @@
+/home/top/project/Qt/RubiksCubeDebug2-0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/top/project/Qt/RubiksCubeDebug2-0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/top/project/Qt/RubiksCubeDebug2-0/cmake-build-debug/CMakeFiles/RubikCubeDebug2-0.dir
+/home/top/project/Qt/RubiksCubeDebug2-0/cmake-build-debug/CMakeFiles/RubikCubeDebug2-0_autogen.dir

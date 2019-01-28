@@ -6,7 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/top/project/Qt/widget/ui_widget.h
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/EWIEGA46WW/moc_widget.cpp
+../../../widget.h
+/home/top/project/Qt/widget_in_clion/widget.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/mocs_compilation.cpp
+EWIEGA46WW/moc_widget.cpp
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/EWIEGA46WW/moc_widget.cpp
+
+/home/top/project/Qt/widget_in_clion/main.cpp
+widget.h
+/home/top/project/Qt/widget_in_clion/widget.h
+QApplication
+-
+
+/home/top/project/Qt/widget_in_clion/ui_widget.h
 QtCore/QVariant
 -
 QtWidgets/QApplication
@@ -24,13 +42,13 @@ QtWidgets/QVBoxLayout
 QtWidgets/QWidget
 -
 
-/home/top/project/Qt/widget/widget.cpp
+/home/top/project/Qt/widget_in_clion/widget.cpp
 widget.h
-/home/top/project/Qt/widget/widget.h
+/home/top/project/Qt/widget_in_clion/widget.h
 ui_widget.h
-/home/top/project/Qt/widget/ui_widget.h
+/home/top/project/Qt/widget_in_clion/ui_widget.h
 
-/home/top/project/Qt/widget/widget.h
+/home/top/project/Qt/widget_in_clion/widget.h
 QWidget
 -
 QPushButton

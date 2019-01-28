@@ -43,10 +43,10 @@ RM = /home/top/opt/clion-2018.2.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/top/project/Qt/widget
+CMAKE_SOURCE_DIR = /home/top/project/Qt/widget_in_clion
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/top/project/Qt/widget/cmake-build-debug
+CMAKE_BINARY_DIR = /home/top/project/Qt/widget_in_clion/cmake-build-debug
 
 # Utility rule file for QT_autogen.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /home/top/project/Qt/widget/cmake-build-debug
 include CMakeFiles/QT_autogen.dir/progress.make
 
 CMakeFiles/QT_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target QT"
-	/home/top/opt/clion-2018.2.4/bin/cmake/linux/bin/cmake -E cmake_autogen /home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT_autogen.dir/AutogenInfo.cmake Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target QT"
+	/home/top/opt/clion-2018.2.4/bin/cmake/linux/bin/cmake -E cmake_autogen /home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/AutogenInfo.cmake Debug
 
 QT_autogen: CMakeFiles/QT_autogen
 QT_autogen: CMakeFiles/QT_autogen.dir/build.make
@@ -72,6 +72,6 @@ CMakeFiles/QT_autogen.dir/clean:
 .PHONY : CMakeFiles/QT_autogen.dir/clean
 
 CMakeFiles/QT_autogen.dir/depend:
-	cd /home/top/project/Qt/widget/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/top/project/Qt/widget /home/top/project/Qt/widget /home/top/project/Qt/widget/cmake-build-debug /home/top/project/Qt/widget/cmake-build-debug /home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/top/project/Qt/widget_in_clion/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/top/project/Qt/widget_in_clion /home/top/project/Qt/widget_in_clion /home/top/project/Qt/widget_in_clion/cmake-build-debug /home/top/project/Qt/widget_in_clion/cmake-build-debug /home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/QT_autogen.dir/depend
 

@@ -33,7 +33,7 @@ public:
     void load(QString fileName);
     void save(QString fileName);
 
-
+    QString fileName;
 private:
     Ui::Widget *ui;
 
@@ -44,7 +44,7 @@ private:
     QImage newImage;
     QGraphicsScene *scene;
     QGraphicsScene *scene_2;
-    QString fileName;
+
     QString savePath;
     QString threshold_value;
 };

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/top/project/Qt/widget/cmake-build-debug/QT_autogen/mocs_compilation.cpp" "/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o"
-  "/home/top/project/Qt/widget/main.cpp" "/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT.dir/main.cpp.o"
-  "/home/top/project/Qt/widget/widget.cpp" "/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT.dir/widget.cpp.o"
+  "/home/top/project/Qt/widget_in_clion/cmake-build-debug/QT_autogen/mocs_compilation.cpp" "/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.o"
+  "/home/top/project/Qt/widget_in_clion/main.cpp" "/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/main.cpp.o"
+  "/home/top/project/Qt/widget_in_clion/widget.cpp" "/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir/widget.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

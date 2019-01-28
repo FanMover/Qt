@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.5)
+project(helloQt)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_PREFIX_PATH ${CMAKE_PREFIX_PATH} $ENV{QT5_INSTALL_PATH})
+message("Test:" ${CMAKE_PREFIX_PATH})
+find_package(Qt5Core REQUIRED)
+find_package(Qt5Widgets REQUIRED)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTOMOC ON)
+file(GLOB src_file *.ui *.cpp *.h)
+set(helloworld_SRCS ${src_file})
+# Tell CMake to create the helloworld executable
+add_executable(helloQt ${helloworld_SRCS})
+target_link_libraries(helloQt Qt5::Core Qt5::Widgets)

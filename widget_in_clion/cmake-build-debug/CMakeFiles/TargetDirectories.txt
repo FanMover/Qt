@@ -1,4 +1,4 @@
-/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT.dir
-/home/top/project/Qt/widget/cmake-build-debug/CMakeFiles/QT_autogen.dir
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT.dir
+/home/top/project/Qt/widget_in_clion/cmake-build-debug/CMakeFiles/QT_autogen.dir
